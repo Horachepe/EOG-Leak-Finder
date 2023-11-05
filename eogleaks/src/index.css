@@ -83,7 +83,7 @@ header {
   background-color: #157706;
   position: static;
   top: 0;
-  width: 125%;
+  width: 115%;
   z-index: 200;
   text-align: center;
 }
@@ -92,7 +92,7 @@ footer {
   background-color: #22303f;
   position: static;
   bottom: 0;
-  width: 125%;
+  width: 115%;
   z-index: 200;
   text-align: center;
 }

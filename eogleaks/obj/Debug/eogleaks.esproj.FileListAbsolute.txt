@@ -1,1 +1,2 @@
 C:\Users\argue\source\repos\eogLeaks\eogLeaks\obj\Debug\eogleaks.esproj.CoreCompileInputs.cache
+C:\Users\argue\source\repos\eogLeaks\EOG-Leak-Finder\eogLeaks\obj\Debug\eogleaks.esproj.CoreCompileInputs.cache
