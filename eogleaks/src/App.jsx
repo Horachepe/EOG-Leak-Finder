@@ -5,7 +5,7 @@ function App() {
   const long = "40.595834";
   const lat = "-105.1423989";
   const coor = long + "," + lat;
-  const hlink = "https://www.google.com/maps/embed/v1/place?key=AIzaSyASCCU9n_NSzHQN8wnNR5BPR4ZngrKjD-8&q=";
+  const hlink = "https://www.google.com/maps/embed/v1/place?key=Your-API-Key&q=";
   const link = hlink + coor + "&maptype=satellite";
   //const [data, setData] = useState([]);
   //const [isLoading, setIsLoading] = useState(true);
